@@ -1,0 +1,66 @@
+\documentclass[journal,12pt,twocolumn]{IEEEtran}
+
+\usepackage{tfrupee}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\title{\textbf{\underline{Assignment 1}}}
+\author{\textbf{\textit{Nunsavath Sree Harsha}}\\
+\textbf{\textit{cs21btech11042}}}
+
+\begin{document}
+
+\maketitle
+\textbf{QUESTION}\\
+\textbf{Q3 (a)} : The catalogue price of a computer set is Rs.$ 42000$. The shopkeeper gives a discount
+of$ 10$ on the listed price. He further gives an off-season discount of $5$ on the
+discounted price. However, sales tax at $8 $is charged on the remaining price atter
+the two successive discounts. Find:
+the amount of sales tax a customer has to pay
+the total price to be paid by the customer for the computer set.
+
+
+
+\bigskip
+
+
+\textbf{Solution: } \\
+
+\bigskip
+
+List price of the computer =₹42000\\
+
+Rate of discount = $10$\\
+
+Total discount = $₹ 10/100*42000$
+=₹4200\\
+
+Discounted price = $₹(42000 - 4200)$
+  = ₹37800\\
+
+Another off-season discount =$ 5$\\
+
+Total off-season discount = $₹ 5/100*37800
+= ₹1890$\\
+
+Remaining price after two successive discounts 
+  =$ ₹35910$\\
+
+Total sales tax 8% = ₹ 8/100*35910
+=₹2872.80\\
+
+Total price of the computer set
+=₹(35910 + 2872.80)\\
+
+= ₹38782.80\\
+
+Hence, amount of sales tax is ₹ 2872.80 and
+total price to be paid by the customer for the
+computer set in ₹38782.80.
+
+
+\bigskip
+
+
+\end{document}
